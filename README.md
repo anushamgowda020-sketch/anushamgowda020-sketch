@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi lisha here.. 👋
 
 # 💫 About Me:
 👩‍💻 Lisha M Gowda  <br>🎓 Engineering Student | VTU  <br>💻 Learning C, Java, and Python  <br>🚀 Passionate about technology and problem solving  <br>📈 Currently improving coding skills and exploring DSA<br>Interested in social service exams..
